@@ -1,1 +1,1 @@
-MYVAR = "one"
+MYVAR = "two"
