@@ -1,1 +1,1 @@
-MYVAR = "7"
+MYVAR = "8"
